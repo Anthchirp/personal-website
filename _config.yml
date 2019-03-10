@@ -44,6 +44,6 @@ topics:
 
   - name: Continuous Integration
     web_url: https://github.com/topics/continuous-integration
-    image_url: https://jenkins.io/sites/default/files/jenkins_logo.png
+    image_url: images/jenkins.png
 
   - name: DevOps
